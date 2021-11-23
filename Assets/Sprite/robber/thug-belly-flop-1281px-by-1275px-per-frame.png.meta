@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: c42971a284ecce0408983895100aa96f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4767282739191506722
+    second: thug-belly-flop-1281px-by-1275px-per-frame_0
+  - first:
+      213: 7278417777663089358
+    second: thug-belly-flop-1281px-by-1275px-per-frame_1
+  - first:
+      213: -6351659686519057921
+    second: thug-belly-flop-1281px-by-1275px-per-frame_2
+  - first:
+      213: 5851643027038551522
+    second: thug-belly-flop-1281px-by-1275px-per-frame_3
+  - first:
+      213: -2504059698641353130
+    second: thug-belly-flop-1281px-by-1275px-per-frame_4
+  - first:
+      213: -4811073642562786278
+    second: thug-belly-flop-1281px-by-1275px-per-frame_5
+  - first:
+      213: 6612333923164605328
+    second: thug-belly-flop-1281px-by-1275px-per-frame_6
+  - first:
+      213: -6801994088586483636
+    second: thug-belly-flop-1281px-by-1275px-per-frame_7
+  - first:
+      213: 8380759930524718914
+    second: thug-belly-flop-1281px-by-1275px-per-frame_8
+  - first:
+      213: -8276687289868614291
+    second: thug-belly-flop-1281px-by-1275px-per-frame_9
+  - first:
+      213: -676188075285478654
+    second: thug-belly-flop-1281px-by-1275px-per-frame_10
+  - first:
+      213: 4584465147867396139
+    second: thug-belly-flop-1281px-by-1275px-per-frame_11
+  - first:
+      213: 1327858293744162806
+    second: thug-belly-flop-1281px-by-1275px-per-frame_12
+  - first:
+      213: 3185707602878428709
+    second: thug-belly-flop-1281px-by-1275px-per-frame_13
+  - first:
+      213: -8688320890885830234
+    second: thug-belly-flop-1281px-by-1275px-per-frame_14
+  - first:
+      213: 779278691843904326
+    second: thug-belly-flop-1281px-by-1275px-per-frame_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 620
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3825
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276c55a46ac82240800000000000000
+      internalID: 4767282739191506722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 3825
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1f74f762220560800000000000000
+      internalID: 7278417777663089358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 3825
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1dcdaea2f5ad7a0800000000000000
+      internalID: -6351659686519057921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 3825
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed360b6456353150800000000000000
+      internalID: 5851643027038551522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2550
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564c1e98facf3dd0800000000000000
+      internalID: -2504059698641353130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 2550
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cecc22302ab3db0800000000000000
+      internalID: -4811073642562786278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2550
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bcd726baab3cb50800000000000000
+      internalID: 6612333923164605328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 2550
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ee793a667a91a0800000000000000
+      internalID: -6801994088586483636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1275
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d0cee0c07e4470800000000000000
+      internalID: 8380759930524718914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1275
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65046af2cc432d80800000000000000
+      internalID: -8276687289868614291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1275
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20301433782bd96f0800000000000000
+      internalID: -676188075285478654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1275
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287bcf23ca4f9f30800000000000000
+      internalID: 4584465147867396139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75da635108d6210800000000000000
+      internalID: 1327858293744162806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52674dbaf28e53c20800000000000000
+      internalID: 3185707602878428709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90524be22ec6780800000000000000
+      internalID: -8688320890885830234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-belly-flop-1281px-by-1275px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 0
+        width: 1218
+        height: 1275
+      alignment: 9
+      pivot: {x: 0.38, y: 0.155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643136867dd80da00800000000000000
+      internalID: 779278691843904326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

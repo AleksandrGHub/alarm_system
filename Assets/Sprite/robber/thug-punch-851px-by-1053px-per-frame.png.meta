@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: cb1270e5815a1f741b327c436b43d8cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6789112613535658008
+    second: thug-punch-851px-by-1053px-per-frame_0
+  - first:
+      213: 2548921575510513885
+    second: thug-punch-851px-by-1053px-per-frame_1
+  - first:
+      213: -6756033042266328650
+    second: thug-punch-851px-by-1053px-per-frame_2
+  - first:
+      213: 2756510901969922466
+    second: thug-punch-851px-by-1053px-per-frame_3
+  - first:
+      213: 9180749986834925427
+    second: thug-punch-851px-by-1053px-per-frame_4
+  - first:
+      213: -2463961907455907681
+    second: thug-punch-851px-by-1053px-per-frame_5
+  - first:
+      213: -2462274895430788779
+    second: thug-punch-851px-by-1053px-per-frame_6
+  - first:
+      213: 1005499411821591623
+    second: thug-punch-851px-by-1053px-per-frame_7
+  - first:
+      213: 855391814280598367
+    second: thug-punch-851px-by-1053px-per-frame_8
+  - first:
+      213: 6141202546861563933
+    second: thug-punch-851px-by-1053px-per-frame_9
+  - first:
+      213: -7782162969069675512
+    second: thug-punch-851px-by-1053px-per-frame_10
+  - first:
+      213: 1421427138866502428
+    second: thug-punch-851px-by-1053px-per-frame_11
+  - first:
+      213: 636715675946617434
+    second: thug-punch-851px-by-1053px-per-frame_12
+  - first:
+      213: 3489466274295413544
+    second: thug-punch-851px-by-1053px-per-frame_13
+  - first:
+      213: -2724058241494306862
+    second: thug-punch-851px-by-1053px-per-frame_14
+  - first:
+      213: 4105125165659558615
+    second: thug-punch-851px-by-1053px-per-frame_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 620
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3159
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef451a5c0a38c1a0800000000000000
+      internalID: -6789112613535658008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3159
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd812ac0ba69f5320800000000000000
+      internalID: 2548921575510513885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 3159
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f9e83ebfbd32a0800000000000000
+      internalID: -6756033042266328650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 3159
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a86b8f08114620800000000000000
+      internalID: 2756510901969922466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2106
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c7f8a873986f70800000000000000
+      internalID: 9180749986834925427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2106
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982ff523bf3ecdd0800000000000000
+      internalID: -2463961907455907681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2106
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595c7e370e34ddd0800000000000000
+      internalID: -2462274895430788779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 2106
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7d7f336044fd00800000000000000
+      internalID: 1005499411821591623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d8f1b256fedb00800000000000000
+      internalID: 855391814280598367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1053
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10686bcd2fe93550800000000000000
+      internalID: 6141202546861563933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1053
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1764e204300490800000000000000
+      internalID: -7782162969069675512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1053
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bdc36a37ce9b310800000000000000
+      internalID: 1421427138866502428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a88b7a88116d800800000000000000
+      internalID: 636715675946617434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7517a6131d6030800000000000000
+      internalID: 3489466274295413544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 0
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa1484673323ad0800000000000000
+      internalID: -2724058241494306862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-punch-851px-by-1053px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 0
+        width: 851
+        height: 1053
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d297a9969558f830800000000000000
+      internalID: 4105125165659558615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

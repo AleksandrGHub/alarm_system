@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: f036a7af07a7d4e4d8d42a5472358af0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 810431727034644037
+    second: thug-walk-661px-by-1041px-per-frame_0
+  - first:
+      213: -4983710813058003291
+    second: thug-walk-661px-by-1041px-per-frame_1
+  - first:
+      213: 2074088848941097321
+    second: thug-walk-661px-by-1041px-per-frame_2
+  - first:
+      213: -4307686188409139271
+    second: thug-walk-661px-by-1041px-per-frame_3
+  - first:
+      213: 4224698848461595692
+    second: thug-walk-661px-by-1041px-per-frame_4
+  - first:
+      213: 5291523440842647475
+    second: thug-walk-661px-by-1041px-per-frame_5
+  - first:
+      213: 5991317264528555579
+    second: thug-walk-661px-by-1041px-per-frame_6
+  - first:
+      213: 1585321804933673375
+    second: thug-walk-661px-by-1041px-per-frame_7
+  - first:
+      213: 656394483245592940
+    second: thug-walk-661px-by-1041px-per-frame_8
+  - first:
+      213: -4218620815323406650
+    second: thug-walk-661px-by-1041px-per-frame_9
+  - first:
+      213: 8374452112780282903
+    second: thug-walk-661px-by-1041px-per-frame_10
+  - first:
+      213: 4757262502314671977
+    second: thug-walk-661px-by-1041px-per-frame_11
+  - first:
+      213: 974256790510598847
+    second: thug-walk-661px-by-1041px-per-frame_12
+  - first:
+      213: 2796588743272621423
+    second: thug-walk-661px-by-1041px-per-frame_13
+  - first:
+      213: -189044715746077245
+    second: thug-walk-661px-by-1041px-per-frame_14
+  - first:
+      213: -5722591336232562758
+    second: thug-walk-661px-by-1041px-per-frame_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 620
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3123
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5463b94ac5b3f3b00800000000000000
+      internalID: 810431727034644037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3123
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae876c9b6d46dab0800000000000000
+      internalID: -4983710813058003291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 3123
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961abb1b1d4a8cc10800000000000000
+      internalID: 2074088848941097321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 3123
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf44081c360834c0800000000000000
+      internalID: -4307686188409139271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2082
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c242e81283521aa30800000000000000
+      internalID: 4224698848461595692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2082
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72414a8844f6940800000000000000
+      internalID: 5291523440842647475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 2082
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb3e80f4f652350800000000000000
+      internalID: 5991317264528555579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2082
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b0cd38c1300610800000000000000
+      internalID: 1585321804933673375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6131660e4bfb1900800000000000000
+      internalID: 656394483245592940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1041
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce549c38b27475c0800000000000000
+      internalID: -4218620815323406650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1041
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc9caa3d7083470800000000000000
+      internalID: 8374452112780282903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1041
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f70c17a01350240800000000000000
+      internalID: 4757262502314671977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba756e9361458d00800000000000000
+      internalID: 974256790510598847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ee9125aa7fc620800000000000000
+      internalID: 2796588743272621423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 0
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c55a4725d0606df0800000000000000
+      internalID: -189044715746077245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thug-walk-661px-by-1041px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 0
+        width: 661
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf4121df754590b0800000000000000
+      internalID: -5722591336232562758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
